@@ -1,0 +1,12 @@
+; EditorConfig is awesome: http://EditorConfig.org
+; blatantly stolen form meteor.js because that's what i am used to damnit!
+
+root = true;
+
+[*]
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.js]
+indent_style = space
+indent_size = 2
