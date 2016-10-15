@@ -1,4 +1,4 @@
-h1 Mathirl ReadMe
+# Mathirl ReadMe
 --------
 Mathril is a Mithril-based lightweight spreadsheet that can handle simple
 calculations. Right now it is a complete knockoff of the spreadsheet discussed
